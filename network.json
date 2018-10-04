@@ -30,12 +30,15 @@
             "name": "scprc_est_2017_18_pop_res.csv"
         },
         {
-            "name": "clean.R"
+            "name": "data.csv"
         },
         {
-            "name": "data.csv"
+            "assigned_to": "not assigned",
+            "desc": "",
+            "name": "clean.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-04 16:46:58",
+    "updated_at": "2018-10-04 16:48:38",
     "url": "https://github.com/fall2018-wallace/first"
 }
