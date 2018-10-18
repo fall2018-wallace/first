@@ -7,6 +7,5 @@ myfunction <- function(){
   colnames(cleandf) <- c("stateName","population","popOver18","percentOver18")
   return(cleandf)
 }
-
 states3 <- myfunction()
 myfunction()
