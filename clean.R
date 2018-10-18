@@ -1,6 +1,4 @@
 
-
-
 arrests <- data.frame(USArrests) 
 arrests
 
@@ -15,4 +13,6 @@ myfunction <- function(){
 
 states3 <- myfunction()
 myfunction()
+
+
 
